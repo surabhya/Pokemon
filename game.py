@@ -1,5 +1,8 @@
 # More information about this project can be found in a handout on the class
 # website. Be sure to read it before you start programming.
+
+
+
 import random 
 import pokemon 
 
